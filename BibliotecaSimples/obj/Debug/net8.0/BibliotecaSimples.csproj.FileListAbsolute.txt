@@ -1,0 +1,5 @@
+/workspaces/SistemaBibliotecaProjetoo/BibliotecaSimples/obj/Debug/net8.0/BibliotecaSimples.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/SistemaBibliotecaProjetoo/BibliotecaSimples/obj/Debug/net8.0/BibliotecaSimples.AssemblyInfoInputs.cache
+/workspaces/SistemaBibliotecaProjetoo/BibliotecaSimples/obj/Debug/net8.0/BibliotecaSimples.AssemblyInfo.cs
+/workspaces/SistemaBibliotecaProjetoo/BibliotecaSimples/obj/Debug/net8.0/BibliotecaSimples.csproj.CoreCompileInputs.cache
+/workspaces/SistemaBibliotecaProjetoo/BibliotecaSimples/obj/Debug/net8.0/BibliotecaSimples.sourcelink.json
